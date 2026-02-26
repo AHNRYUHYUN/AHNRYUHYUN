@@ -7,8 +7,7 @@ Hello, I'm **Ryu Hyun Ahn**, a backend developer focused on building reliable, s
 ## 🛠 Tech Stack
 
 **Primary**
-- [Spring Boot](https://github.com/AHNRYUHYUN/AHNRYUHYUN/blob/main/skills/SpringBoot.png)
-- Node.js
+- [<img src="[https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white](https://github.com/AHNRYUHYUN/AHNRYUHYUN/blob/main/skills/SpringBoot.png)" />]
 
 **Experienced With**
 - RESTful API Design
