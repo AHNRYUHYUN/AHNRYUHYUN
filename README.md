@@ -7,7 +7,7 @@ Hello, I'm **Ryu Hyun Ahn**, a backend developer focused on building reliable, s
 ## 🛠 Tech Stack
 
 **Primary**
-- <img src="https://github.com/AHNRYUHYUN/AHNRYUHYUN/blob/main/skills/SpringBoot.png">
+- <img src="https://github.com/AHNRYUHYUN/AHNRYUHYUN/blob/main/skills/SpringBoot.png?style=flat">
 
 **Experienced With**
 - RESTful API Design
