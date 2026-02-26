@@ -1,4 +1,4 @@
-# 👋 Backend Developer | 류현
+#  Backend Developer | 류현
 
 안녕하세요.  
 데이터 흐름과 시스템 구조 설계를 중심으로 개발하는 백엔드 개발자 **류현**입니다.
@@ -41,7 +41,7 @@ IoT 실시간 데이터 처리, 통계 집계, 리포트 자동화, 인증/권�
 
 ---
 
-## 📌 Core Experience
+##  Core Experience
 
 ### 🔹 IoT Data Processing Backend (Node.js · MongoDB · MQTT)
 
@@ -67,7 +67,7 @@ IoT 실시간 데이터 처리, 통계 집계, 리포트 자동화, 인증/권�
 
 ---
 
-## 🎯 Development Focus
+## Development Focus
 
 - 데이터 정합성과 일관성 유지
 - 확장 가능한 도메인 모델 설계
@@ -77,7 +77,7 @@ IoT 실시간 데이터 처리, 통계 집계, 리포트 자동화, 인증/권�
 
 ---
 
-## 📫 Contact
+## Contact
 
-- GitHub: https://github.com/your-id
-- Email: your-email@example.com
+- GitHub: https://github.com/AHNRYUHYUN
+- Email: dksfbgus@gmail.com
