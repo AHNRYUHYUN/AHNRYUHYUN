@@ -6,7 +6,6 @@
 
 ## 🛠 기술 스택
 
-**주요 기술**
 ---
 
 <img src="https://github.com/AHNRYUHYUN/AHNRYUHYUN/blob/main/skills/SpringBoot.png" width="100">  <img src="https://github.com/AHNRYUHYUN/AHNRYUHYUN/blob/main/skills/NodeJS.png" width="100">
