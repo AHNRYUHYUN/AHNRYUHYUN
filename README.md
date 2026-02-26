@@ -1,6 +1,6 @@
 ## 👋 Hello
 
-Hello, I'm **Ryu Hyun**, a backend developer focused on building reliable, scalable, and maintainable server-side systems.
+Hello, I'm **Ryu Hyun Ahn**, a backend developer focused on building reliable, scalable, and maintainable server-side systems.
 
 ---
 
