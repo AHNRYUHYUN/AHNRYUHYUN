@@ -46,7 +46,7 @@
 
 # 🧩 Portfolio
 #### [GSS](https://github.com/AHNRYUHYUN/GSS) - 비계 및 시설물 안전 관리를 위한 실시간 데이터 모니터링 시스템
-#### [SmartDrain][(https://github.com/AHNRYUHYUN/GSS)](https://github.com/AHNRYUHYUN/SmartDrain) - 홍수 예방 하수구 모니터링 시스템
+#### [SmartDrain](https://github.com/AHNRYUHYUN/SmartDrain) - 홍수 예방 하수구 모니터링 시스템
 #### [JUBY](https://github.com/AHNRYUHYUN/Juby) - 스마트팜 내부 환경 편차 문제를 해결하기 위해, 이동형 로봇이 농장 전역의 데이터를 수집하고, 서버에서 저장·분석·시각화하며, 수확 시점 판단까지 확장 가능한 통합 시스템
 
 ---
