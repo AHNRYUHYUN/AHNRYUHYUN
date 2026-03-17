@@ -1,29 +1,50 @@
-## 👋 안녕하세요
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=250&text=Hello!%20I'm%20Ryuhyun&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=80&fontColor=ffffff&desc=Reliable%20Backend%20Developer)
 
-백엔드 개발자 안류현입니다.  
-신뢰성과 확장성을 고려한 서버 시스템 설계를 중심으로 개발하고 있습니다.
----
-
-## 🛠 기술 스택
-
----
-<img src="https://github.com/AHNRYUHYUN/AHNRYUHYUN/blob/main/skills/SpringBoot.png" width="100">  <img src="https://github.com/AHNRYUHYUN/AHNRYUHYUN/blob/main/skills/NodeJS.png" width="100">
-
-
-
-## ⚙️ 백엔드 역량
-
-- RESTful API 설계 및 구현
-- 데이터베이스 모델링 및 스키마 설계
-- 데이터 처리 및 집계 로직 구현
-- 확장성을 고려한 서버 아키텍처 설계
+# 👨‍💻 About Me
+💡 **Focus**: 신뢰성과 확장성을 고려한 서버 아키텍처 설계  
+🔌 **Interests**: Microservices, Database Optimization, Cloud Native  
+📫 **Contact**: your-email@naver.com (메일 주소를 입력해주세요!)  
 
 ---
 
-## 🧩 개발 방향
+# 💿 Intro
 
-단순 기능 구현을 넘어,  
-데이터 흐름과 시스템 구조를 이해하고 장기적인 유지보수를 고려한 설계를 지향합니다.  
+> ## "단순한 기능을 넘어, 지속 가능한 시스템을 설계합니다."
+> 안녕하세요, 백엔드 개발자 **안류현**입니다.  
+> 저는 코드가 돌아가는 것을 넘어, 그 코드가 **왜(Why)** 그렇게 설계되어야 하는지 고민합니다. 
+> 데이터의 흐름을 구조적으로 분석하고, 대규모 트래픽에도 견딜 수 있는 신뢰성 있는 시스템을 만드는 과정에서 즐거움을 느낍니다.
 
-또한 새로운 기술과 아키텍처를 꾸준히 학습하며  
-문제 해결 능력과 기술적 깊이를 확장해 나가고 있습니다.
+> 단순히 API를 만드는 개발자가 아닌, **비즈니스의 성장을 뒷받침할 수 있는 탄탄한 인프라와 로직**을 구축하는 파트너가 되는 것이 저의 목표입니다.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages & Frameworks
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+### Databases & Infra
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
+### Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+
+---
+
+# ⚙️ Core Competencies
+
+* **RESTful API Design**: 자원의 효율적 관리와 가독성을 고려한 API 설계
+* **Database Modeling**: 정규화 및 인덱싱 최적화를 통한 성능 향상
+* **System Architecture**: 유지보수가 용이한 계층형 아키텍처 및 디자인 패턴 적용
+* **Scalability**: 트래픽 증가에 대응 가능한 확장성 있는 로직 구현
+
+---
+
+# 🧩 Projects
+*(여기에 류현님의 주요 프로젝트들을 주연님 형식처럼 링크와 함께 적어주세요!)*
+#### [프로젝트명](링크) - 프로젝트 한 줄 설명
+> 주요 역할: API 설계, DB 아키텍처 구축 등
+
+---
+
+![Ryuhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&theme=transparent&show_icons=true)
