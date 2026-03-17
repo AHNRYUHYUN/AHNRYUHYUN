@@ -4,7 +4,6 @@
 🎓 Major: Artificial Intelligence<br />
 🔌 Minor: IoT Convergence<br />
 💡 **Focus**: 신뢰성과 확장성을 고려한 서버 아키텍처 설계  
-🔌 **Interests**: Microservices, Database Optimization, Cloud Native  
 📫 **Contact**: dksfbgus@gmail.com  
 
 ---
