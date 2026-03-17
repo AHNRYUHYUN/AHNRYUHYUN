@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=250&text=Hello!%20I'm%20Ryuhyun&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=80&fontColor=ffffff&desc=Reliable%20Backend%20Developer)
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=250&text=Hello!%20I'm%20Ryuhyun&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=Reliable%20Backend%20Developer)
 
 # 👨‍💻 About Me
 💡 **Focus**: 신뢰성과 확장성을 고려한 서버 아키텍처 설계  
