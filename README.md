@@ -51,4 +51,3 @@
 
 ---
 
-![Ryuhyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&theme=transparent&show_icons=true)
