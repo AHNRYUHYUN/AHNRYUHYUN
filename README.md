@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=250&text=Hello!%20I'm%20Ryuhyun&fontAlignX=50&fontAlignY=40&color=gradient&fontSize=60&fontColor=ffffff&desc=Reliable%20Backend%20Developer&descAlignX=50&descAlignY=60)
 
 # 👨‍💻 About Me
-🎓 Major: Artificial Intelligence
-🔌 Minor: IoT Convergence
+🎓 Major: Artificial Intelligence<br />
+🔌 Minor: IoT Convergence<br />
 💡 **Focus**: 신뢰성과 확장성을 고려한 서버 아키텍처 설계  
 🔌 **Interests**: Microservices, Database Optimization, Cloud Native  
 📫 **Contact**: dksfbgus@gmail.com  
